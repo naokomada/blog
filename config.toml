@@ -7,7 +7,7 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "blog"
+title = "ギターを水に浸けた話"
 
 #theme = "mainroad"
 paginate = 20
